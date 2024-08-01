@@ -65,8 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="70" />
-  <img scrc="https://brandeps.com/logo-download/M/Materialize-CSS-logo-vector-01.svg" height="40" alt="materialize google logo"/>
+
  al</div>
 
 
