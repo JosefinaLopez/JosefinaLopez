@@ -1,12 +1,10 @@
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <h2 align="left">💫 Acerca de mí</h2>
 
 ###
 
-<br clear="both">
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <p align="left">¡Hola! Soy Josefina López, una apasionada estudiante de programación proveniente de Nicaragua. Actualmente, me encuentro en el quinto año de la carrera de Ingeniería en Sistemas, explorando el fascinante mundo de la tecnología y el desarrollo de software.<br><br>Mi viaje en la programación ha sido emocionante hasta ahora, y estoy ansiosa por aprender nuevas tecnologías y enfrentar desafíos que me ayuden a crecer como desarrolladora. Me encanta la sensación de empoderamiento que surge al darme cuenta de que, con conocimiento y habilidades, puedo crear soluciones y contribuir al mundo digital de maneras significativas.<br>Mis habilidades incluyen el manejo fluido de tecnologías como HTML, CSS, Boostrap para el desarrollo web, así como Java, C#,Python, Visual Basic, C y Kotlin Jeckpak Compose para aplicaciones de software web y móviles. Además, tengo experiencia trabajando con bases de datos como SQL Server, PostgreSQL, SQLite3, Firebase Realtime y Firebase Database, lo que me permite diseñar sistemas robustos y eficientes.<br><br>Lo que me distingue es mi mentalidad de aceptar desafíos como oportunidades de aprendizaje. Me siento cómoda explorando nuevas tecnologías y estoy emocionada por seguir ampliando mi conocimiento y experiencia en el fascinante campo de la programación.</p>
 
@@ -74,6 +72,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/JosefinaLopez/JosefinaLopez/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -85,7 +85,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosefinaLopez&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=outrun&hide_border=true&order=2&custom_title=Lenguajes%20mas%20Usados" height="230" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosefinaLopez&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=outrun&hide_border=true&order=2&custom_title=Lenguajes%20mas%20Usados" height="220" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=JosefinaLopez&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=30&order=3" height="140" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JosefinaLopez&theme=discord&column=6&row=3&margin-w=10&margin-h=9&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -97,4 +97,3 @@
 </div>
 
 ###
-
