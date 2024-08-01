@@ -73,8 +73,11 @@
 <br clear="both" >
 
 <img align="left" src="https://raw.githubusercontent.com/JosefinaLopez/JosefinaLopez/output/snake.svg" alt="Snake animation" />
+
 ###
+
 <img align="right" height="130" src="https://i.imgflip.com/65efzo.gif" style="border-radius:30px;"  />
+
 ###
 
 <h2 align="center">📊 GitHub Stats</h2>
