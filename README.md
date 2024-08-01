@@ -78,6 +78,9 @@
 
 <img align="right" height="130" src="https://i.imgflip.com/65efzo.gif" style="border-radius:30px;"  />
 
+<br clear="both" >
+
+
 ###
 
 <h2 align="center">📊 GitHub Stats</h2>
