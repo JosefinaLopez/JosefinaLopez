@@ -73,7 +73,7 @@
 
 <br clear="both" >
 
-<img align="left" src="https://raw.githubusercontent.com/JosefinaLopez/JosefinaLopez/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://raw.githubusercontent.com/JosefinaLopez/JosefinaLopez/snake.svg" alt="Snake animation" />
 
 ###
 
