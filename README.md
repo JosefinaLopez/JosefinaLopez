@@ -4,7 +4,7 @@
 
 
 
-<p align="left">¡Hola! Soy Josefina López, estudiante de Ingeniería en Sistemas. Actualmente curso quinto año de carrera. Me apasiona explorar la tecnología y el desarrollo de software. Disfruto aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer como desarrolladora. Mi mentalidad de ver los retos como oportunidades de aprendizaje lo cual, me impulsa a explorar y expandir mis habilidades constantemente en este emocionante campo de la informatica.</p>
+<p align="left">Hello! I am Josefina López, Systems Engineer. I am passionate about exploring technology and software development. I enjoy learning new technologies and facing challenges that allow me to grow as a developer. My mentality of seeing challenges as learning opportunities drives me to constantly explore and expand my skills in this exciting field of computing.</p>
 
 ###
 
