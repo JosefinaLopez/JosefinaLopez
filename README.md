@@ -1,4 +1,4 @@
-<h2 align="center">💫 Acerca de mí</h2>
+<h2 align="center">💫 About Me</h2>
 
 ###
 
@@ -66,13 +66,6 @@
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
  </div>
-
-
-###
-
-<br clear="both" >
-
-<img align="left" src="https://github.com/JosefinaLopez/JosefinaLopez/snake.yml" alt="Snake animation" />
 
 ###
 
